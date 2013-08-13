@@ -1,0 +1,11 @@
+/*
+Theme Name:     Lyxbling
+Theme URI:      http://lyxbling.se
+Description:    Child theme for the Canvas theme from WooThemes
+Author:         Mats Bergsten
+Author URI:     http://mats.bergsten.net/en/
+Template:       canvas
+Version:        1.0.0
+*/
+
+@import url("../canvas/style.css");
