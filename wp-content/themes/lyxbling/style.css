@@ -1,11 +1,11 @@
 /*
 Theme Name:     Lyxbling
 Theme URI:      http://lyxbling.se
-Description:    Child theme for the Canvas theme from WooThemes
+Description:    Child theme for the Headway theme from Headway Themes
 Author:         Mats Bergsten
 Author URI:     http://mats.bergsten.net/en/
-Template:       canvas
+Template:       headway
 Version:        1.0.0
 */
 
-@import url("../canvas/style.css");
+@import url("../headway/style.css");
